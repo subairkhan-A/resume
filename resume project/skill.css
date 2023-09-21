@@ -1,0 +1,127 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+.skill{
+    width: 100%;
+    height: 360vh;
+    background-image: url(abstract-textured-backgound\ \(1\).jpg);
+    background-size: cover;
+}
+.skill h2{
+    color: aqua;
+    font-style: italic;
+    margin-left: 500px;
+    margin-top: 80px;
+    font-size: 40px;
+}
+.html img{
+    width: 200px;
+    height:200px;
+    margin-left:450px;
+    margin-top:50px;
+}
+.html h3{
+    color: white;
+    font-weight: bold;
+    font-style: oblique;
+    margin-left: 520px;
+    margin-top: 15px;
+}
+.html p{
+    color: white;
+    margin-top: 15px;
+    margin-left: 225px;
+}
+.css img{
+    width: 200px;
+    height:200px;
+    margin-left:450px;
+    margin-top:50px;
+}
+.css h3{
+    color: white;
+    font-weight: bold;
+    font-style: oblique;
+    margin-left: 520px;
+    margin-top: 15px;
+}
+.css p{
+    color: white;
+    margin-top: 15px;
+    margin-left: 225px;
+}
+.java img{
+    width: 200px;
+    height:200px;
+    margin-left:450px;
+    margin-top:50px;
+}
+.java h3{
+    color: white;
+    font-weight: bold;
+    font-style: oblique;
+    margin-left: 520px;
+    margin-top: 15px;
+}
+.java p{
+    color: white;
+    margin-top: 15px;
+    margin-left: 235px;
+}
+.c img{
+    width: 200px;
+    height:200px;
+    margin-left:450px;
+    margin-top:50px;
+}
+.c h3{
+    color: white;
+    font-weight: bold;
+    font-style: oblique;
+    margin-left: 480px;
+    margin-top: 15px;
+}
+.c p{
+    color: white;
+    margin-top: 15px;
+    margin-left: 260px;
+}
+.python img{
+    width: 200px;
+    height:200px;
+    margin-left:450px;
+    margin-top:50px;
+}
+.python h3{
+    color: white;
+    font-weight: bold;
+    font-style: oblique;
+    margin-left: 480px;
+    margin-top: 15px;
+}
+.python p{
+    color: white;
+    margin-top: 15px;
+    margin-left: 225px;
+}
+.js img{
+    width: 200px;
+    height:200px;
+    margin-left:450px;
+    margin-top:50px;
+}
+.js h3{
+    color: white;
+    font-weight: bold;
+    font-style: oblique;
+    margin-left: 480px;
+    margin-top: 15px;
+}
+.js p{
+    color: white;
+    margin-top: 15px;
+    margin-left: 225px;
+}

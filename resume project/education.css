@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+.edu{
+    width: 100%;
+    height: 150vh;
+    background-image: url(abstract-textured-backgound\ \(1\).jpg);
+    background-size: cover;
+}
+.edu h2{
+    color: aqua;
+    font-style: italic;
+    margin-left: 450px;
+    margin-top: 40px;
+    font-size: 40px;
+}
+.school img{
+    width: 200px;
+    height:200px;
+    margin-left:530px;
+    margin-top:50px;
+}
+.school h3{
+    color: white;
+    font-weight: bold;
+    font-style: oblique;
+    margin-left: 450px;
+    margin-top: 15px;
+}
+.school p{
+    color: white;
+    margin-top: 15px;
+}
+.college img{
+    width: 200px;
+    height:200px;
+    margin-left:510px;
+    margin-top:50px;
+}
+.college h3{
+    color: white;
+    font-weight: bold;
+    font-style: oblique;
+    margin-left: 450px;
+    margin-top: 15px;
+}
+.college p{
+    color: white;
+    margin-top: 15px;
+    margin-left: 100px;
+}

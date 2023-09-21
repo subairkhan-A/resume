@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+.hobby{
+    width: 100%;
+    height: 180vh;
+    background-image: url(abstract-textured-backgound\ \(1\).jpg);
+    background-size: cover;
+}
+.hobby h2{
+    color: aqua;
+    font-style: italic;
+    margin-left: 480px;
+    font-size: 35px;
+}
+.read img{
+    width: 200px;
+    height:200px;
+    margin-left:450px;
+    margin-top:50px;
+}
+.read h3{
+    color: white;
+    font-weight: bold;
+    font-style: oblique;
+    margin-left: 480px;
+    margin-top: 15px;
+}
+.read p{
+    color: white;
+    margin-top: 15px;
+    margin-left: 225px;
+}
+.music img{
+    width: 200px;
+    height:200px;
+    margin-left:450px;
+    margin-top:50px;
+}
+.music h3{
+    color: white;
+    font-weight: bold;
+    font-style: oblique;
+    margin-left: 480px;
+    margin-top: 15px;
+}
+.music p{
+    color: white;
+    margin-top: 15px;
+    margin-left: 225px;
+}
+.fish img{
+    width: 200px;
+    height:200px;
+    margin-left:450px;
+    margin-top:50px;
+}
+.fish h3{
+    color: white;
+    font-weight: bold;
+    font-style: oblique;
+    margin-left: 480px;
+    margin-top: 15px;
+}
+.fish p{
+    color: white;
+    margin-top: 15px;
+    margin-left: 25px;
+}
